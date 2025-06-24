@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529007804807",
+    "project_id": "bilgisayarogreniyorum-5a0dc",
+    "storage_bucket": "bilgisayarogreniyorum-5a0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529007804807:android:2bc7929b6e04584c5a1322",
+        "android_client_info": {
+          "package_name": "com.example.bilgisayar_ogreniyoruz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKlPS5Pn1SW81VaRxcr3Sie4IR_PESs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
